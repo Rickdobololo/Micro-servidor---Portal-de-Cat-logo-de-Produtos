@@ -1,0 +1,12 @@
+[
+  { "id": 101, "name": "shorts jean", "price": 69.90 },
+  { "id": 102, "name": "Camisa Preta", "price": 79.90 },
+  { "id": 103, "name": "tênis nike", "price": 249.90 },
+  { "id": 104, "name": "chinelo kenner", "price": 259.90 },
+  { "id": 105, "name": "Calça jean", "price": 149.90 },
+  { "id": 106, "name": "kit cueca", "price": 49.90 },
+  { "id": 107, "name": "blusa moleton", "price": 169.90 },
+  { "id": 108, "name": "conjunto moleton", "price": 299.90 },
+  { "id": 109, "name": "boné", "price": 59.90 },
+  { "id": 110, "name": "shoulder bag", "price": 99.90 }
+]
