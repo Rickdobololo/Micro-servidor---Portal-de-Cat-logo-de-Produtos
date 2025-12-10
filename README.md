@@ -2,8 +2,8 @@
 
 ▶ Como instalar
 1.Certifique-se de ter Node.js 18+ instalado.
-2.Clone ou baixe este repositório: git clone https://github.com/SEU-USUARIO/NOME-DO-REPO.git
-Acesse a pasta do projeto: cd NOME-DO-REPO
+2.Clone ou baixe este repositório: git clone (https://github.com/Rickdobololo/Micro-servidor---Portal-de-Cat-logo-de-Produtos)
+Acesse a pasta do projeto: cd Projeto-Lojas-Cem
 Instale as dependências:
 3.npm init -y e npm install express node-fetch
 
